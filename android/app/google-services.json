@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786077040761",
+    "project_id": "truthordare-gamecard",
+    "storage_bucket": "truthordare-gamecard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786077040761:android:79a9a14cc2a57801ef94a8",
+        "android_client_info": {
+          "package_name": "com.example.truthordare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYv8B2gnU7ubutK4jWi_u3-q-hk4tmPCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
