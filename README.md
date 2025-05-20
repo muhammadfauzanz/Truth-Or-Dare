@@ -1,6 +1,6 @@
 # truthordare
 
-A new Flutter project.
+A simple Truth or Dare game using Firebase for the backend and GetX for state management.
 
 ## Getting Started
 
