@@ -1,6 +1,6 @@
 # truthordare
 
-A simple Truth or Dare game using Firebase for the backend and GetX for state management.
+A simple Truth or Dare game using Flutter for the language program, Firebase for the backend and GetX for state management.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/724acbff-e11c-43a1-803e-9a87c115a975" width="200"/>
